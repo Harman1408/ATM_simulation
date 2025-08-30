@@ -57,10 +57,4 @@ Choose an option:
 
 ▪Initial Balance: ₹5000.0
 
-**🚀 Future Improvements**:
 
-▪Change PIN option
-
-▪Multiple user accounts
-
-▪Transaction history
